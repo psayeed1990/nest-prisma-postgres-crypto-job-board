@@ -1,5 +1,5 @@
-<h1>A Job Board With NestJS TypeScript Prisma and Postgres. Payment handling with Stripe</h1>
-
+<h1>A Job Board With NestJS TypeScript Prisma and Postgres. Payment handling with Crypto and Stripe</h1>
+<p>This is a concept project</p>
 <h3>Features</h3>
 <ul>
     <li>Job Creating</li>
